@@ -60,6 +60,6 @@ class InstaBot:
 #
 #
 #
-# fill the password in place of <password>
-my_bot = InstaBot('raghav.malhotra', '< password >')
+# fill the password,username in place of <password> ,<username>
+my_bot = InstaBot('<username>', '< password >')
 my_bot.get_unfollowers()
