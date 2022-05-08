@@ -1,7 +1,7 @@
 # instagram-bot
 this python script returns list of the people on instagram that don't follow you back.
 
-#How to
+# How to
 
 just initiaslise the username and passwordf variable with your credentials and just look at it do the work for you.
 
